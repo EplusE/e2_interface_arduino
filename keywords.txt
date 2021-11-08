@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For e2Interface
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+e2Interface	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+
+readShortFromSlave	KEYWORD2
+readByteFromSlave	KEYWORD2
+start			KEYWORD2
+stop			KEYWORD2
+sendByte		KEYWORD2
+readByte		KEYWORD2
+checkAck		KEYWORD2
+sendAck			KEYWORD2
+sendNak			KEYWORD2
+setSda			KEYWORD2
+clearSda		KEYWORD2
+readSda			KEYWORD2
+setScl			KEYWORD2
+clearScl		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+E2_DEVICE_ADR	LITERAL1
